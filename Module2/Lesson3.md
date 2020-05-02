@@ -23,7 +23,8 @@
 И все эти библиотеки используют Numpy! Это означает, что вы должны при операциях со всеми Вашими данными использовать структуры данных NumPy.
 
 ## Содержание
-Для продолжения лекции, кликните по ссылкам:
+Для перехода к материалам лекции, кликните по ссылкам:
+
 **[Лекция 3.1. NumPy](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson31.ipynb)**
 
 **[Лекция 3.2. Pandas](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson32.ipynb)**
