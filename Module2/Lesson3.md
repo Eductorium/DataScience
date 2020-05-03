@@ -29,4 +29,6 @@
 
 **[Лекция 3.2. Pandas. Первичный анализ данных](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson32.ipynb)**
 
+* **[Домашнее задание](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson32Homework.ipynb)**
+
 **[Лекция 3.3. Pandas. Визуализация данных](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson33.ipynb)**
