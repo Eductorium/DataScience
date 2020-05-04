@@ -17,7 +17,7 @@ Data Scientist или инженер по анализу данных - это �
 *   PyCharm
 *   TensorFlow framework
 *   Keras framework
-*   Библиотеки Numpy, Pandas, matplotlib, Scipy и Scikit-learn
+*   Библиотеки Numpy, Pandas, Matplotlib, Scipy и Scikit-learn
 *   IPython и Jupyter
 *   Docker
 
