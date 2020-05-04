@@ -33,6 +33,6 @@
 
 * **[Домашнее задание](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson32Homework.ipynb)**
 
-**[Лекция 3.3. Matplotlib, Seaborn и Plotly. Визуализация данных](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson33.ipynb)*
+**[Лекция 3.3. Matplotlib, Seaborn и Plotly. Визуализация данных](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson33.ipynb)**
 
-**[Лекция 3.4. Визуальный анализ данных на реальном примере](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson34.ipynb)**
+**[Лекция 3.4. Matplotlib, Seaborn и Plotly. Визуальный анализ данных на реальном примере](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson34.ipynb)**
