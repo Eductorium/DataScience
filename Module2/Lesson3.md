@@ -31,10 +31,10 @@
 
 **[Лекция 3.2. Pandas. Первичный анализ данных](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson32.ipynb)**
 
-* **[Домашнее задание к Лекции 3.2](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson32Homework.ipynb)**
+* **[Домашнее задание](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson32Homework.ipynb)**
 
 **[Лекция 3.3. Matplotlib, Seaborn и Plotly. Визуализация данных](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson33.ipynb)**
 
 **[Лекция 3.4. Matplotlib, Seaborn и Plotly. Визуальный анализ данных на реальном примере](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson34.ipynb)**
 
-* **[Домашнее задание  к Лекции 3.4](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson34Homework.ipynb)**
+* **[Домашнее задание](https://colab.research.google.com/github/Eductorium/DataScience/blob/master/Module2/Lesson34Homework.ipynb)**
